@@ -1,0 +1,16 @@
+.navbar {
+	display: flexbox;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+	padding: 2em 2em;
+	background-color: #252525;
+	color: rgb(68, 137, 197);
+
+	&__link {
+        padding: 1em;
+        font-size: 14px;
+		color: #252525;
+        text-decoration: none;
+	}
+}

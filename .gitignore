@@ -1,0 +1,6 @@
+node_modules
+dist
+html
+.htaccess
+gulpfile.js
+package-lock.json
