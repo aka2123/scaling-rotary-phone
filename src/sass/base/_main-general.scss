@@ -8,9 +8,16 @@
 	color: rgb(68, 137, 197);
 
 	&__link {
-        padding: 1em;
-        font-size: 14px;
+		padding: 1em;
+		font-size: 14px;
 		color: #252525;
-        text-decoration: none;
+		text-decoration: none;
 	}
+}
+
+.and {
+	background-color: pink;
+	color: white;
+	text-align: center;
+	text-decoration: overline;
 }
